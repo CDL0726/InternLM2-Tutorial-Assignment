@@ -1,5 +1,9 @@
 # InternLM2-Tutorial-Assignment
+
 # Lecture 1
+# 第一节课 《书生·浦语大模型全链路开源体系》
+[视频](https://www.bilibili.com/video/BV1Vx421X72D/)    
+
 ## 第一节课 笔记
 
 
